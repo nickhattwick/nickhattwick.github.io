@@ -1,0 +1,23 @@
+body {
+  background-image: url("rainy_day.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  font-family: Georgia;
+}
+
+.right{
+  text-align: right;
+}
+.center {
+  text-align: center;
+}
+.order {
+  border: 1px solid white;
+  margin: 1em;
+  padding: 0px 20px 20px 20px;
+
+}
+.italics {
+  font-style: italic;
+}
